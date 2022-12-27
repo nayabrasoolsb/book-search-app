@@ -1,0 +1,20 @@
+.card{
+  width:150px;
+  height:26vh;
+  border: 2px solid #ccc;
+  box-shadow: 3px 3px 8px #cccc;
+  /* overflow: scroll; */
+  font-size: 15px;
+  padding: 10px 7px;
+  outline: none;
+
+}
+/* .card>div{
+  text-decoration: none;
+  color:black;
+  background-color: bisque;
+  outline: none;
+} */
+.card>div>div{
+  margin-bottom: 6px;
+}
